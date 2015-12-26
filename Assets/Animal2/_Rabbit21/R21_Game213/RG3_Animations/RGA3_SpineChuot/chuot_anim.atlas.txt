@@ -1,0 +1,132 @@
+
+chuot_anim.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+carrot
+  rotate: false
+  xy: 2, 108
+  size: 190, 389
+  orig: 190, 389
+  offset: 0, 0
+  index: -1
+chan p
+  rotate: true
+  xy: 492, 192
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+chan t
+  rotate: false
+  xy: 832, 399
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+dat 1
+  rotate: false
+  xy: 328, 293
+  size: 247, 91
+  orig: 247, 91
+  offset: 0, 0
+  index: -1
+dat 2
+  rotate: false
+  xy: 328, 386
+  size: 261, 111
+  orig: 261, 111
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 328, 159
+  size: 162, 132
+  orig: 162, 132
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 591, 377
+  size: 194, 31
+  orig: 194, 31
+  offset: 0, 0
+  index: -1
+la
+  rotate: false
+  xy: 194, 188
+  size: 132, 309
+  orig: 132, 309
+  offset: 0, 0
+  index: -1
+lo nut
+  rotate: false
+  xy: 591, 410
+  size: 239, 87
+  orig: 239, 87
+  offset: 0, 0
+  index: -1
+mat p
+  rotate: false
+  xy: 164, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+mat t
+  rotate: false
+  xy: 787, 377
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+mieng
+  rotate: true
+  xy: 278, 129
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+mui
+  rotate: false
+  xy: 492, 160
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+tai p
+  rotate: false
+  xy: 577, 304
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+tai t
+  rotate: true
+  xy: 194, 108
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+tay p
+  rotate: false
+  xy: 164, 33
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+tay t
+  rotate: false
+  xy: 942, 422
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 2
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
